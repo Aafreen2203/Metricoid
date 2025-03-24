@@ -1,0 +1,50 @@
+{
+  "aboutMe": {
+      "name": "Aafreen Munaf Khan",
+      "bio": "Passionate Frontend Developer with experience in AI-driven applications, cloud deployment, and UI/UX design. Strong foundation in ReactJS, Node.js, and AWS.",
+      "image": "Images/profile.jpg"
+  },
+  "skills": [
+      "JavaScript", "ReactJS", "NextJS", "Tailwind CSS", "Node.js", "Express", 
+      "FastAPI", "Python", "MongoDB", "MySQL", "Firebase", "AWS", "Git", "Postman"
+  ],
+  "hobbies": ["Reading", "Gaming", "Coding", "Exploring AI & ML"],
+  "passions": ["Frontend Development", "UI/UX Design", "AI & Cloud Computing"],
+  "academicBackground": {
+      "degree": "Bachelor of Engineering - Computer Science (AI & ML)",
+      "institution": "A.P. Shah Institute of Technology",
+      "years": "2022 - 2026",
+      "relevantCoursework": [
+          "Data Structures and Algorithms", 
+          "Operating Systems", 
+          "Object-Oriented Programming",
+          "Database Management System"
+      ]
+  },
+  "workExperience": [
+      {
+          "company": "AICTE-Eduskills",
+          "role": "Intern - Cloud & AI Development",
+          "duration": "Oct - Dec 2024",
+          "description": "Gained hands-on experience with AWS (S3, EC2, Lambda) for cloud deployment. Developed AI-driven applications with optimized infrastructure for large-scale data."
+      },
+      {
+          "company": "Google Android Developer Virtual Internship",
+          "role": "Intern",
+          "duration": "July - Sept 2024",
+          "description": "Built AI-powered diet & workout recommendation system using React, Node.js, and TensorFlow. Integrated Edamam API for real-time meal planning & YouTube Data API for workouts."
+      }
+  ],
+  "certifications": [
+      {
+          "title": "Postman API Fundamentals Student Expert",
+          "issuer": "Postman",
+          "year": 2024
+      },
+      {
+          "title": "Google AI-ML Virtual Internship Badge",
+          "issuer": "Google",
+          "year": 2024
+      }
+  ]
+}
