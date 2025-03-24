@@ -1,1 +1,1 @@
-Deployed my project on Cloudfront, the live link : https://d2snurpg9y1h9v.cloudfront.net/
+Deployed my project on AWS(S3 + Cloudfront), the live link : https://metricoid.aafreen.live/
