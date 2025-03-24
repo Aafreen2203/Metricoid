@@ -1,1 +1,22 @@
 @import "tailwindcss";
+
+
+/* Hide Scrollbar but Keep Scrolling */
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: transparent;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  /* For Firefox */
+  html {
+    scrollbar-width: none;
+  }
+  
